@@ -1,0 +1,9 @@
+C:\Users\predator\source\repos\Logg\Logg\bin\Debug\Logg.exe
+C:\Users\predator\source\repos\Logg\Logg\bin\Debug\Logg.pdb
+C:\Users\predator\source\repos\Logg\Logg\obj\Debug\Logg.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\Logg\Logg\obj\Debug\Logg.Form1.resources
+C:\Users\predator\source\repos\Logg\Logg\obj\Debug\Logg.Properties.Resources.resources
+C:\Users\predator\source\repos\Logg\Logg\obj\Debug\Logg.csproj.GenerateResource.cache
+C:\Users\predator\source\repos\Logg\Logg\obj\Debug\Logg.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Logg\Logg\obj\Debug\Logg.exe
+C:\Users\predator\source\repos\Logg\Logg\obj\Debug\Logg.pdb
